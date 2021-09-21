@@ -1,0 +1,16 @@
+C:\Users\tabassum\source\repos\NYTBestSeller\NYTBestSeller\bin\Debug\netcoreapp3.1\NYTBestSeller.exe
+C:\Users\tabassum\source\repos\NYTBestSeller\NYTBestSeller\bin\Debug\netcoreapp3.1\NYTBestSeller.deps.json
+C:\Users\tabassum\source\repos\NYTBestSeller\NYTBestSeller\bin\Debug\netcoreapp3.1\NYTBestSeller.runtimeconfig.json
+C:\Users\tabassum\source\repos\NYTBestSeller\NYTBestSeller\bin\Debug\netcoreapp3.1\NYTBestSeller.runtimeconfig.dev.json
+C:\Users\tabassum\source\repos\NYTBestSeller\NYTBestSeller\bin\Debug\netcoreapp3.1\NYTBestSeller.dll
+C:\Users\tabassum\source\repos\NYTBestSeller\NYTBestSeller\bin\Debug\netcoreapp3.1\NYTBestSeller.pdb
+C:\Users\tabassum\source\repos\NYTBestSeller\NYTBestSeller\bin\Debug\netcoreapp3.1\NYTBestSellerBookList.dll
+C:\Users\tabassum\source\repos\NYTBestSeller\NYTBestSeller\bin\Debug\netcoreapp3.1\NYTBestSellerBookList.pdb
+C:\Users\tabassum\source\repos\NYTBestSeller\NYTBestSeller\obj\Debug\netcoreapp3.1\NYTBestSeller.AssemblyInfoInputs.cache
+C:\Users\tabassum\source\repos\NYTBestSeller\NYTBestSeller\obj\Debug\netcoreapp3.1\NYTBestSeller.AssemblyInfo.cs
+C:\Users\tabassum\source\repos\NYTBestSeller\NYTBestSeller\obj\Debug\netcoreapp3.1\NYTBestSeller.csproj.CoreCompileInputs.cache
+C:\Users\tabassum\source\repos\NYTBestSeller\NYTBestSeller\obj\Debug\netcoreapp3.1\NYTBestSeller.csproj.CopyComplete
+C:\Users\tabassum\source\repos\NYTBestSeller\NYTBestSeller\obj\Debug\netcoreapp3.1\NYTBestSeller.dll
+C:\Users\tabassum\source\repos\NYTBestSeller\NYTBestSeller\obj\Debug\netcoreapp3.1\NYTBestSeller.pdb
+C:\Users\tabassum\source\repos\NYTBestSeller\NYTBestSeller\obj\Debug\netcoreapp3.1\NYTBestSeller.genruntimeconfig.cache
+C:\Users\tabassum\source\repos\NYTBestSeller\NYTBestSeller\obj\Debug\netcoreapp3.1\NYTBestSeller.csproj.AssemblyReference.cache
