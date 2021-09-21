@@ -1,0 +1,27 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+
+    <IsPackable>false</IsPackable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.9.4" />
+    <PackageReference Include="Moq" Version="4.16.1" />
+    <PackageReference Include="NUnit" Version="3.13.1" />
+    <PackageReference Include="NUnit3TestAdapter" Version="3.17.0" />
+    <PackageReference Include="coverlet.collector" Version="3.0.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\NYTBestSellerBookList\NYTBestSellerBookList.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="Moq">
+      <HintPath>..\..\..\..\Downloads\Moq.4.0.10827.Final\Moq.4.0.10827\NET40\Moq.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
