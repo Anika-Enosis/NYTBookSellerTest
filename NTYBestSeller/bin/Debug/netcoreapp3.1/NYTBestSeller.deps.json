@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "NYTBestSeller/1.0.0": {
+        "dependencies": {
+          "NYTBestSellerBookList": "1.0.0"
+        },
+        "runtime": {
+          "NYTBestSeller.dll": {}
+        }
+      },
+      "NYTBestSellerBookList/1.0.0": {
+        "runtime": {
+          "NYTBestSellerBookList.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NYTBestSeller/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NYTBestSellerBookList/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

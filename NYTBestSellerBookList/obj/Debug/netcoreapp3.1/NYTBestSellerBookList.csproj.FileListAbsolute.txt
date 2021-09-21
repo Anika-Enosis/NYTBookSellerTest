@@ -1,0 +1,9 @@
+C:\Users\tabassum\source\repos\NYTBestSeller\NYTBestSellerBookList\bin\Debug\netcoreapp3.1\NYTBestSellerBookList.deps.json
+C:\Users\tabassum\source\repos\NYTBestSeller\NYTBestSellerBookList\bin\Debug\netcoreapp3.1\NYTBestSellerBookList.dll
+C:\Users\tabassum\source\repos\NYTBestSeller\NYTBestSellerBookList\bin\Debug\netcoreapp3.1\NYTBestSellerBookList.pdb
+C:\Users\tabassum\source\repos\NYTBestSeller\NYTBestSellerBookList\obj\Debug\netcoreapp3.1\NYTBestSellerBookList.csproj.AssemblyReference.cache
+C:\Users\tabassum\source\repos\NYTBestSeller\NYTBestSellerBookList\obj\Debug\netcoreapp3.1\NYTBestSellerBookList.AssemblyInfoInputs.cache
+C:\Users\tabassum\source\repos\NYTBestSeller\NYTBestSellerBookList\obj\Debug\netcoreapp3.1\NYTBestSellerBookList.AssemblyInfo.cs
+C:\Users\tabassum\source\repos\NYTBestSeller\NYTBestSellerBookList\obj\Debug\netcoreapp3.1\NYTBestSellerBookList.csproj.CoreCompileInputs.cache
+C:\Users\tabassum\source\repos\NYTBestSeller\NYTBestSellerBookList\obj\Debug\netcoreapp3.1\NYTBestSellerBookList.dll
+C:\Users\tabassum\source\repos\NYTBestSeller\NYTBestSellerBookList\obj\Debug\netcoreapp3.1\NYTBestSellerBookList.pdb
